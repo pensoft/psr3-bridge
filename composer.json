@@ -1,5 +1,5 @@
 {
-    "name": "nick-scalewest/psr3-bridge",
+    "name": "pensoft/psr3-bridge",
     "keywords": [
         "casbin",
         "psr-3",
@@ -17,7 +17,7 @@
     ],
     "license": "Apache-2.0",
     "require": {
-        "nick-scalewest/php-casbin": "^1.0",
+        "pensoft/php-casbin": "^1.0",
         "psr/log": "^1.1|^2.0|^3.0"
     },
     "require-dev": {
